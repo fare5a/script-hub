@@ -1,12 +1,12 @@
 # Star History
-[![Stargazers over time](https://starchart.cc/rbxluau/script-hub.svg?variant=adaptive)](https://starchart.cc/rbxluau/script-hub)
+[![Stargazers over time](https://starchart.cc/fare5a/script-hub.svg?variant=adaptive)](https://starchart.cc/fare5a/script-hub)
 # Contributors
 [@Verycuteabbey](https://github.com/Verycuteabbey)  
 [@f20i30s40h](https://github.com/f20i30s40h)
 # Example
-[![license](https://img.shields.io/github/license/rbxluau/script-hub)](https://github.com/rbxluau/script-hub/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/fare5a/script-hub)](https://github.com/fare5a/script-hub/blob/main/LICENSE)
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/rbxluau/script-hub/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fare5a/script-hub/main/loader.lua"))()
 ```
 * SupportedGames
     > Arsenal  
@@ -18,7 +18,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/rbxluau/script-hub/ma
     RainbowFriends
 # Library
 ```lua
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/rbxluau/script-hub/main/library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/fare5a/script-hub/main/library.lua"))()
 ```
 ## Window
 ```lua
