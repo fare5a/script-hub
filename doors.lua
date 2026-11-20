@@ -34,7 +34,7 @@ local function ESP(part, offset)
     TextLabel.Text = part.Name
 end
 
-local Library, Locale = loadstring(game:HttpGet("https://raw.githubusercontent.com/rbxluau/script-hub/main/library.lua"))()
+local Library, Locale = loadstring(game:HttpGet("https://raw.githubusercontent.com/fare5a/script-hub/main/library.lua"))()
 
 local Window = Library:Window("Doors")
 

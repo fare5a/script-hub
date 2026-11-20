@@ -21,7 +21,7 @@ local ForceField
 local Part
 local Ball
 
-local Library, Locale = loadstring(game:HttpGet("https://raw.githubusercontent.com/rbxluau/script-hub/main/library.lua"))()
+local Library, Locale = loadstring(game:HttpGet("https://raw.githubusercontent.com/fare5a/script-hub/main/library.lua"))()
 
 local Window = Library:Window(Locale.BladeBall)
 

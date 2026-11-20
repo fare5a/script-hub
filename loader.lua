@@ -1,6 +1,6 @@
 local StarterGui = game:GetService("StarterGui")
 local BindableFunction = Instance.new("BindableFunction", script)
-local Source = game:HttpGet("https://raw.githubusercontent.com/rbxluau/script-hub/main/"..(({
+local Source = game:HttpGet("https://raw.githubusercontent.com/fare5a/script-hub/main/"..(({
     [4777817887] = "blade_ball",
     [2820580801] = "ohio",
     [111958650] = "arsenal",
